@@ -6,7 +6,7 @@ I když se dělá tradičně červený, často ho dělám kakaový. Pokud chceš
 
 ### Množství
 
-* 24 cupackes
+- 24 cupackes
 
 ### Suroviny
 
@@ -21,9 +21,10 @@ I když se dělá tradičně červený, často ho dělám kakaový. Pokud chceš
 
 ### Postup
 
-1. Změklé máslo šlehám nejdřív chvilku samo, pak přidám cukr, šlehám, vejce, šlehám.
-2. Pak připravím mouku a v ní rozmíchám kakao a trošičku jedlé sody. Také si připravím hrnek podmáslí.
-3. Postupně přidávám mouku, šlehám, podmáslí, šlehám atd., dokud není vše.
-4. Pak si připravím formu (ujistím se, že je předehřátá trouba) a přijde poslední část.
-5. Do malé mističky/skleničky dám tak 1-2 lžičky jedlé sody a ocet, zamíchám to a rychle přidám k těstu a zase chvilku, důkladně šlehám.
+1. Změklé máslo šleháme nejdřív chvilku samo, pak přidáme cukr, šleháme, vejce, šleháme.
+2. Pak připravíme mouku a v ní rozmícháme kakao a trošičku jedlé sody. Také si připravíme hrnek podmáslí.
+3. Postupně přidáváme mouku, šleháme, podmáslí, šleháme atd., dokud není vše.
+4. Pak si připravíme formu (ujistíme se, že je předehřátá trouba) a přijde poslední část.
+5. Do malé mističky/skleničky dáme tak 1-2 lžičky jedlé sody a ocet, zamícháme to a rychle přidáme k těstu a zase chvilku, důkladně šleháme.
 6. Pak už jen nalít do formy/košíčků.
+7. Pečeme na cca 175 °C.
