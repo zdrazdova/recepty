@@ -1,3 +1,13 @@
 ## Recepty na pečení
 
-* [Red Velvet / kakaové cupcakes](./red_velvet)
+### Korpusy
+
+* [Red Velvet / kakaové cupcakes](./korpusy/red_velvet)
+
+### Krémy
+
+
+
+### Ostatní
+
+* [Slaný karamel](./ostatni/slany_karamel)

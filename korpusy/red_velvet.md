@@ -4,6 +4,10 @@ Oproti jiným korpusům je vláčnější, neosychá, netradiční – prostě m
 
 I když se dělá tradičně červený, často ho dělám kakaový. Pokud chceš barevný, tak místo kakaa přidej danou potravinářskou barvu.
 
+### Množství
+
+* 24 cupackes
+
 ### Suroviny
 
 - 250 g hladké mouky
