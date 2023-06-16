@@ -1,5 +1,3 @@
-## Recepty na pečení
-
 ### Korpusy
 
 * [Red Velvet / kakaové cupcakes](./korpusy/red_velvet)
