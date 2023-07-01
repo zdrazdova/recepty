@@ -4,7 +4,7 @@
 
 ### Krémy
 
-
+* [Čokoládový kréme](./kremy/cokoladovy_krem.md)
 
 ### Ostatní
 
