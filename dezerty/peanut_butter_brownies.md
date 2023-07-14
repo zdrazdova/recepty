@@ -17,12 +17,12 @@ Zdroj: <https://www.bbcgoodfood.com/recipes/peanut-butter-brownies>
 
 ### Postup
 
-1. Dáme si stranou 50 g burákového másla a 50 g čokolády. Rozpálíme troubu na 180 °C.
-2. V hrnci rozpustíme zbytek burákového másla a čokolády a všechen cukr.
-3. Když se cukr začne rozpouštět, přelijeme směs do mísy, aby trochu zchladla.
+1. V hrnci rozpustíme 175 g burákového másla (50 g si necháme stranou), 150 g čokolády (50 g si necháme stranou) a všechen cukr.
+2. Když se cukr začne rozpouštět, přelijeme směs do mísy, aby trochu zchladla.
+3. Jakmile směs trochu zchladne, začneme rozpalovat troubu na 180 °C a postupně přidáme zbylé suroviny.
 4. Postupně vmícháme vejce.
-5. Přidáme mouku smíchanou s jednou sodou.
+5. Přidáme mouku smíchanou s jedlou sodou.
 6. Směs dáme do pekáče (vysypaného nebo s pečícím papírem).
-7. Zbylé burákové máslo rozpustíme (v hrnci nebo v mikrovlnce) a polijeme s ním brownie - nalijeme cik-cak náhodně a pak můžeme lehce zamíchat pomocí špejle nebo párátka.
+7. Zbylé burákové máslo rozpustíme (v hrnci nebo v mikrovlnce) a polijeme s ním brownie – nalijeme cik-cak náhodně a pak můžeme lehce zamíchat pomocí špejle nebo párátka.
 8. Pečeme 20–25 minut.
 9. Zbylou čokoládu rozpustíme a polijeme s ní brownie.
