@@ -17,4 +17,4 @@
 6. Než chceme krém použít, můžeme ho ještě vyšlehat, bude pak mít lepší konzistenci
 
 ### Zdroj
-https://tasty.co/recipe/fudgiest-dairy-free-chocolate-cake
+[Fudgiest Dairy-Free Chocolate Cake](https://tasty.co/recipe/fudgiest-dairy-free-chocolate-cake)
