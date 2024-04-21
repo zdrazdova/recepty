@@ -6,7 +6,7 @@ I když se dělá tradičně červený, často ho dělám kakaový. Pokud chceš
 
 ### Množství
 
-- 24 cupackes
+- 24 menších cupcakes nebo 1 dortový korpus
 
 ### Suroviny
 
@@ -22,8 +22,8 @@ I když se dělá tradičně červený, často ho dělám kakaový. Pokud chceš
 ### Postup
 
 1. Změklé máslo šleháme nejdřív chvilku samo, pak přidáme cukr, šleháme, vejce, šleháme.
-2. Pak připravíme mouku a v ní rozmícháme kakao a trošičku jedlé sody. Také si připravíme hrnek podmáslí.
-3. Postupně přidáváme mouku, šleháme, podmáslí, šleháme atd., dokud není vše.
+2. Pak připravíme mouku a v ní rozmícháme kakao a půl lžičky jedlé sody. Také si připravíme hrnek podmáslí.
+3. Postupně přidáváme mouku, šleháme, podmáslí, šleháme atd., dokud není vše zapracované do hladkého těsta.
 4. Pak si připravíme formu (ujistíme se, že je předehřátá trouba) a přijde poslední část.
 5. Do malé mističky/skleničky dáme tak 1-2 lžičky jedlé sody a ocet, zamícháme to a rychle přidáme k těstu a zase chvilku, důkladně šleháme.
 6. Pak už jen nalít do formy/košíčků.
