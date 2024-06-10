@@ -2,6 +2,7 @@
 
 * [Peanut butter brownies](./dezerty/peanut_butter_brownies.md)
 * [Mrkvový dort](./dezerty/mrkvovy_dort.md)
+* [Sušenky El Morche](./dezerty/susenky_el_morche.md)
 
 ### Korpusy
 
