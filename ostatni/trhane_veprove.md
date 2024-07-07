@@ -3,16 +3,16 @@
 ### Suroviny
 
 - 1–1,5 kg vepřové krkovice v celku bez kosti (případně plece)
-- 2–3 lžíce hnědého cukru
-- grilovací koření (½–1 balení)
-- olej na osmažení masa
+- 3 lžíce třtinového cukru
+- grilovací koření (1 balení)
+- 2 lžíce oleje
 - cca 330 ml cideru na podlití
 - BBQ omáčka
 
 ### Postup
 
-1. Smíchejte cukr a grilovací koření. Troubu rozpalte na 200 °C.
-2. Kořením důkladně potřete maso ze všech stran. Do pánve nalijte olej, rozpalte ji a maso na ní ze všech stran opečte.
+1. Smíchejte cukr a grilovací koření. Troubu zapněte na 200 °C.
+2. Maso obalte ve směsi koření s cukrem ze všech stran. Do pánve nalijte olej, rozpalte ji a maso na ní ze všech stran opečte.
 3. Opečené maso dejte do zapékací nádoby s víkem, ideálně takové, která dobře drží teplo.
 4. Maso podlijte zhruba 330 ml tekutiny – ideálně cider, ale můžete použít i vodu.
 5. Takto podlité maso zakryjte víkem a vložte do rozpálené trouby, teplotu stáhněte na 150 °C.
