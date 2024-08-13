@@ -17,7 +17,7 @@ Zdroj: <https://www.bbcgoodfood.com/recipes/peanut-butter-brownies>
 
 ### Postup
 
-1. V hrnci rozpustíme 175 g burákového másla (50 g si necháme stranou), 150 g čokolády (50 g si necháme stranou) a všechen cukr.
+1. V hrnci rozpustíme 175 g burákového másla (50 g si necháme stranou), 150 g čokolády (50 g si necháme stranou) a všechen cukr. Rozpouštíme pomalu na nízký plamen, často mícháme. Méně zkušení pekaři použijí vodní lázeň.
 2. Když se cukr začne rozpouštět, přelijeme směs do mísy, aby trochu zchladla.
 3. Jakmile směs trochu zchladne, začneme rozpalovat troubu na 180 °C a postupně přidáme zbylé suroviny.
 4. Postupně vmícháme vejce.
