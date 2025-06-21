@@ -8,6 +8,7 @@
 
 * [Red Velvet / kakaové cupcakes](./korpusy/red_velvet)
 * [Mrkvový korpus](./korpusy/mrkvovy_korpus.md)
+* [Piškotový korpus](./korpusy/piskot.md)
 
 ### Krémy
 
