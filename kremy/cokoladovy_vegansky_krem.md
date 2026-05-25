@@ -5,7 +5,8 @@
 - 250 g hořké čokolády
 - 1 plechovka (400 ml) kokosového mléka
   - pozor, musí to být plechovka, ne mléko v tetrapaku, jsou to dvě odlišné věci
-  - dobré je třeba K-Classic (složení: 91 % extrakt z kokosových ořechů, ...)
+  - dobré je třeba K-Classic z Kauflandu (složení: 91 % extrakt z kokosových ořechů, ...) nebo kokosové mléko v plechovce z Lidlu
+  - když mají v obchodě normální varinatu a light variantu, tak vezměte tu normální
 - 1-2 lžíce kokosového oleje (není nutné)
 - cukr moučka dle chuti
 
