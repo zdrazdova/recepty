@@ -16,6 +16,7 @@
 * [Krém na mrkvový dort](./kremy/krem_na_mrkvovy_dort.md)
 * [Čokoládový veganský krém](./kremy/cokoladovy_vegansky_krem.md)
 * [Jahodový krém](./kremy/jahodovy_krem.md)
+* [Mascarpone krém](./kremy/mascarpone_krem.md)
 
 ### Ostatní
 
