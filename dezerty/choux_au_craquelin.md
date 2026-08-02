@@ -39,7 +39,7 @@ Recept je podle tohoto videa: <https://www.youtube.com/watch?v=V34QHHoN33A>, dop
 #### Sestavení a pečení
 
 1. Troubu dáme předehřát na 190 °C.
-2. Odpalované těsto dáme do cukrářského sáčku s kulatou špičkou. Těsto je spíš hutnější, takže je dobré mít pevnější sáček (nebo dát dva jednorázové igelitové sáčky do sebe).
+2. Odpalované těsto dáme do cukrářského sáčku s kulatou špičkou. Těsto je spíš hutnější, takže je dobré mít pevnější sáček (nebo dát dva jednorázové igelitové cukrářské sáčky do sebe).
 3. Na plech vyložený pečicím papírem děláme bochánky těsta s dostatečnými rozestupy. Těsto vystačí na jeden velký plech velkých bochánků nebo víc plechů menších.
 4. Když máme všechny bochánky připravené, vyndáme z mrazáku craquelin. Opatrně oddělíme vykrojená kolečka a položíme na každý bochánek jedno. Čím studenější craquelin je, tím lépe se s ním pracuje.
 5. Dáme do trouby a pečeme asi 30-50 minut podle velikosti bochánků (měly by trochu zhnědnout). **V žádném případě neotevíráme troubu** (aspoň prvních 30 minut)!
@@ -48,7 +48,7 @@ Recept je podle tohoto videa: <https://www.youtube.com/watch?v=V34QHHoN33A>, dop
 #### Krém
 
 1. Vychladlé větrníčky prokrojíme (napůl nebo trochu výš než v polovině).
-2. Naplníme krémem podle chuti (např. [mascarpone krém](./kremy/mascarpone_krem.md)). Pro vylepšení chuti kromě krému přidáme i trochu džemu, karamelu nebo Nutelly.
+2. Naplníme krémem podle chuti (např. [mascarpone krém](../kremy/mascarpone_krem)). Pro vylepšení chuti kromě krému přidáme i trochu džemu, karamelu nebo Nutelly.
 3. Množství krému z mascarpone by mělo pohodlně vyjít na naplnění všech větrníčků, pravděpodobně i trochu zbyde. Záleží, jak velké větrníčky děláme a kolik krému do nich dáme.
 
 ### Zdroj
