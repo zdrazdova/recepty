@@ -4,6 +4,8 @@
 * [Mrkvový dort](./dezerty/mrkvovy_dort.md)
 * [Sušenky El Morche](./dezerty/susenky_el_morche.md)
 * [Choux au Craquelin (francouzské větrníčky)](./dezerty/choux_au_craquelin.md)
+* [Křehký koláč](./dezerty/krehky_kolac.md)
+
 
 ### Korpusy
 
