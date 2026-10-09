@@ -1,9 +1,11 @@
 ## Cizrnové sušenky
 
-### Zdroj: https://www.liveeatlearn.com/chocolate-chip-chickpea-cookies/#wprm-recipe-container-135627
+### Zdroj: 
+
+<https://www.liveeatlearn.com/chocolate-chip-chickpea-cookies/#wprm-recipe-container-135627>
 
 ### Suroviny
-- 400 g cizrny z plechovky nebo sklenice (např sklepnice Vařená cizrna ve slaném nálevu s Lidlu, 400g pevného podílu, 520 g celkem)
+- 400 g cizrny z plechovky nebo sklenice (např sklenice Vařená cizrna ve slaném nálevu z Lidlu, 400g pevného podílu, 520 g celkem)
 - 125 g Hery (pokud nepotřebuji vegan, mohu použít místo Hery máslo)
 - 2-3 lžíce arašídového másla
 - 2 lžíce nálevu z cizrny (aquafaba)
