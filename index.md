@@ -5,7 +5,7 @@
 * [Sušenky El Morche](./dezerty/susenky_el_morche.md)
 * [Choux au Craquelin (francouzské větrníčky)](./dezerty/choux_au_craquelin.md)
 * [Křehký koláč](./dezerty/krehky_kolac.md)
-
+* [Cizrnové sušenky (vegan)](./dezerty/cizrnove_susenky.md)
 
 ### Korpusy
 
