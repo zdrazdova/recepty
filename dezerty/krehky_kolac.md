@@ -46,6 +46,11 @@ Karamelizované ořechy
 1. Tvarohy rozmícháme nebo rozšleháme s vanilkovým cukrem a vejcemi.
 2. Když dáme náplň na těsto, dáme na ní pak několik lžiček marmelády.
 
+![Křehký koláč 1](../img/krehky-kolac-1.jpeg)
+![Křehký koláč 2](../img/krehky-kolac-2.jpeg)
+![Křehký koláč 3](../img/krehky-kolac-3.jpeg)
+![Křehký koláč 4](../img/krehky-kolac-4.jpeg)
+
 #### Jablečná náplň
 1. Jablka oloupeme, zbavíme jádřince a nakrájíme na plátky. Dáme do menšího kastrůlku a přidáme vodu a skořicový cukr.
 2. Necháme na mírném ohni, dokud jablka nezměknou.
